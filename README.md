@@ -1,1 +1,1 @@
-# MapDemoApp
+# MapsDemoApp
